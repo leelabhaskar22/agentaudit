@@ -20,7 +20,7 @@ In 2024–2025, over **$2.3 billion** was lost to smart contract exploits. Small
 
 ## Demo
 
-![AgentAudit screenshot](docs/screenshot.png)
+![AgentAudit screenshot](agentaudit.png)
 
 **Sample audit output on a real ERC20 contract:**
 
